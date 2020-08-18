@@ -4,4 +4,7 @@ class Demo
 	{
 		System.out.println("Hello World!");
 	}
+	public void doProcess()
+	{
+	}
 }
